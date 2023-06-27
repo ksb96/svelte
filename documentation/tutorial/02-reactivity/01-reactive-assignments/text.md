@@ -18,4 +18,4 @@ function incrementCount() {
 }
 ```
 
-Svelte 'instruments' this assignment with some code that tells it the DOM will need to be updated.
+Svelte 'instruments' this assignment with some code that tells the DOM will need to be updated.
